@@ -1,0 +1,10 @@
+{
+  "traffic_vla": {
+    "file_name": "traffic_vla.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    }
+  }
+}
