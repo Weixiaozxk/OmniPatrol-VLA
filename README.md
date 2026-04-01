@@ -25,7 +25,7 @@
 ## 🛠️ 系统架构 (Architecture)
 
 
-![alt text](image.png)
+![Demo](./docs/image.png)
 
 ---
 
